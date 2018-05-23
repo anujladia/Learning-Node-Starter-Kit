@@ -1,12 +1,12 @@
 # Learning-Node-Starter-Kit
 
-•	What is Node?
-  Evented I/O for V8 JavaScript Engine by Ryan Dahl
+•	What is Node?  
+  Evented I/O for V8 JavaScript Engine by Ryan Dahl  
 
-  I/O Model
-  o	Event driven
-  o	Non-blocking
-  o	Asynchronous
+  I/O Model  
+  o	Event driven  
+  o	Non-blocking  
+  o	Asynchronous  
 
 It is a runtime environment for creating web applications on server side.
 It also is a library as it comes with a lot of modules that are not required to be coded 
