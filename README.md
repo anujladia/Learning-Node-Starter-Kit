@@ -1,7 +1,7 @@
 # Learning-Node-Starter-Kit
 
 •	What is Node?
-Evented I/O for V8 JavaScript Engine by Ryan Dahl
+  Evented I/O for V8 JavaScript Engine by Ryan Dahl
 
   I/O Model
   o	Event driven
