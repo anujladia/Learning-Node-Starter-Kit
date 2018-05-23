@@ -1,22 +1,23 @@
 # Learning-Node-Starter-Kit
 
-•	What is Node?  
-  Evented I/O for V8 JavaScript Engine by Ryan Dahl  
+Node  
+Evented I/O for V8 JavaScript Engine by Ryan Dahl  
 
-  I/O Model  
-  o	Event driven  
-  o	Non-blocking  
-  o	Asynchronous  
+I/O Model  
+- Event driven  
+- Non-blocking  
+- Asynchronous  
 
 It is a runtime environment for creating web applications on server side.
 It also is a library as it comes with a lot of modules that are not required to be coded 
 
-•	How to setup Node JS  
+How to setup Node JS  
 Download Node https://nodejs.org/en/download/  
 Check it on your Command Prompt with ‘node -v’. This will give you the version of the node installed.  
 
-• Starting to code  
+Starting to code  
 This is more of a hands-on type of course. Where you learn while coding. Go through the codes given in the files and write it on your own and run it to get the maximum output from this kit.  
+
 
 1. Hello World Code (refer file helloworld.js)  
 
@@ -62,9 +63,9 @@ This is more of a hands-on type of course. Where you learn while coding. Go thro
   o	Node JS comes with some built in modules so that we don’t have to code from the scratch.  
   o	For core modules we do not need to specify '.' or '/' while requesting the module  
   o	Examples of such modules:  
-    	HTTP module  
-      •	This allows the use of HTTP server at the client  
-      •	With this we create a web server   
+      HTTP module  
+        •	This allows the use of HTTP server at the client  
+        •	With this we create a web server   
       
           var http = require(‘http’);
           
